@@ -1,2 +1,2 @@
 # JavaAutomationDelivery
-Простые e2e авто-тесты на Java
+auto site tests www.delivery-club.ru (WEB)
